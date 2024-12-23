@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.sourcelink.json
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\bin\Debug\net8.0\whilePratic.exe
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\bin\Debug\net8.0\whilePratic.deps.json
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\bin\Debug\net8.0\whilePratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\bin\Debug\net8.0\whilePratic.dll
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\bin\Debug\net8.0\whilePratic.pdb
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.dll
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\refint\whilePratic.dll
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.pdb
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\whilePratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\whilePratic\whilePratic\obj\Debug\net8.0\ref\whilePratic.dll
